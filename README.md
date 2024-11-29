@@ -5,3 +5,6 @@
 > `최종_분석.ipynb` 파일의 경우, 최종적으로 그나마 유의미하다 생각한 결과를 교수님께 제출하기 위해 작성한 파일이다.
 - 위에서 말한 최종 분석 파일이 답안지라면, `machine_learning.ipynb` 파일은
 - 문제를 풀기위해 사용한 계산용 종이 느낌이라고 생각해주면 좋겠다.
+
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/{nin_cheon})
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/{nin_cheon}?theme=light&posts=3)
